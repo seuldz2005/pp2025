@@ -1,6 +1,6 @@
 # USTH Advanced Python 2025
 
-- Your student ID
-- Your name
-- Your class
+- 23BA14270
+- Nguyễn Hồng Bảo Thiện
+- MAT
 
