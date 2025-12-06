@@ -4,8 +4,8 @@ class Student:
         self.id = id
         self.name = name
         self.DoB = DoB
-        self.marks = {}   # dùng dict: {course_name: mark}
-
+        self.marks = {}
+        
     def get_name(self):
         return self.name
 
